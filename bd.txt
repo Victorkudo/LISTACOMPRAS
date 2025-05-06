@@ -1,0 +1,2 @@
+url: https://iwwocpgfaxybrcyuwtux.supabase.co
+api key: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Iml3d29jcGdmYXh5YnJjeXV3dHV4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDY1MzU2NTQsImV4cCI6MjA2MjExMTY1NH0.pN3CoGObxnT4v2NqaCid9wRrD-GYJm1HMw1S-p305-k
