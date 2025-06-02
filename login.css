@@ -23,4 +23,24 @@ body {
     font-family: var(--fonte);
     background: #0ec4c1;
 background: linear-gradient(90deg, rgba(14, 196, 193, 1) 16%, rgba(237, 221, 83, 1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+.container{
+    background: var(--cor-bg);
+    padding: clamp(2rem, 5vw, 3rem);
+    border-radius: var(--raio);
+    box-shadow: 0 8px 24px var(--cor-sombra);
+    width: 100%;
+    max-width: 400px;
+     text-align: center;
+}
+.titulo{
+    font-size: clam(1.5rem, 2vw + 1rem, 2rem);
+    color: var(--cor-texto);
+    margin-bottom: 1.5rem;
+    font-weight: 500;
 }
